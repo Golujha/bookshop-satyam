@@ -1,0 +1,14 @@
+
+address
+
+1. user_id
+2. type (office = 0 , home = 1, other = 2)
+3. alt_name
+4. alt_contact
+5. street
+6. area
+7. house_no
+8. landmark
+9. city
+10. state
+11. pincode
